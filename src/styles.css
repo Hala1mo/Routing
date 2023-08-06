@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+nv a:visited, a:link{
+  color: cadetblue;
+}
+nav a:hover{
+  color: blue;
+  background-color: aliceblue;
+}
+nav a.active{
+  color: blue;
+}
+button:hover{
+  background-color: bisque;
+}
+
+button:disabled{
+  background-color: bisque;
+  color: antiquewhite;
+  cursor:auto;
+}
